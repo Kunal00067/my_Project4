@@ -11,8 +11,8 @@ dnspython
 pymongo
 pytz
 
-streamlit==1.37.0
-altair==4.2.2
+ #streamlit==1.37.0
+#altair==4.2.2
 
 
 
@@ -34,4 +34,5 @@ altair==4.2.2
 #reportlab==4.2.0
 #dnspython==2.6.1
 #pymongo==4.7.2
+
 #pytz==2024.1
